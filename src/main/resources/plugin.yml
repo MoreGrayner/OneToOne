@@ -2,3 +2,6 @@ name: OneToOne
 version: '${version}'
 main: org.targermatch.formarkchase.onetoone.OneToOne
 api-version: '1.16'
+command:
+  north:
+    usage: ee
